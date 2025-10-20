@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Engineer | Security, Networking & Coding Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer;Biometric+Systems+Developer;Spring+Boot+Microservices;OpenXPKI+%7C+Certificate+Management" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Engineer;Security;Networking;Administration;Cryptography;Programming" alt="Typing SVG" />
 </p>
 
 ---
@@ -85,5 +85,5 @@ I'm a **cybersecurity engineer** passionate about building secure systems and ex
 </p>
 
 <p align="center">
-  💡 <i>"Growth occurs when one goes beyond one’s limits."</i>
+  <i>"Growth occurs when one goes beyond one’s limits."</i>
 </p>
