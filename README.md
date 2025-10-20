@@ -81,7 +81,7 @@ I'm a **cybersecurity engineer** passionate about building secure systems and ex
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jaouad4&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
 <p align="center">
