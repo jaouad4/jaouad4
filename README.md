@@ -9,7 +9,7 @@
 
 ### 🛡️ About Me
 
-I'm a **cybersecurity engineer** passionate about building secure systems and exploring the intersection of **biometric authentication**, **PKI infrastructure**, and **application security**. Currently working on digital trust, certificate management, and microservices architecture.
+I'm a **cybersecurity engineer** passionate about building secure systems and exploring the intersection of **Network & Application Security**. 
 
 ---
 
